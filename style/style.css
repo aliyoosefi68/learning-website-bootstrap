@@ -56,3 +56,8 @@ body {
 .lalezar {
   font-family: "lalezar";
 }
+.nav-link {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
